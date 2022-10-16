@@ -1,10 +1,10 @@
 # IBM-Project-39940-1660571002
 SmartFarmer - IoT Enabled Smart Farming Application
 
-Team Lead - Bhavana V
-Teamm member 1 - Dharshini Priya PR
-Team member 2 - Durga N
-Team member 3 - Gopika S
+Team Lead - Bhavana V, 
+Team member 1 - Dharshini Priya PR, 
+Team member 2 - Durga N, 
+Team member 3 - Gopika S, 
 Team member 4 - Kanimozhi P
 
 Assignment 1:
