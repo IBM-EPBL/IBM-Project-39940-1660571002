@@ -1,6 +1,8 @@
 # IBM-Project-39940-1660571002
 SmartFarmer - IoT Enabled Smart Farming Application
+
 Team ID - PNT2022TMID30750
+
 Team Lead - Bhavana V, 
 Team member 1 - Dharshini Priya PR, 
 Team member 2 - Durga N, 
