@@ -22,3 +22,8 @@ and continuously detect in case of high temperature
 
 Assignment 3:
 Python code for blinking LED and Traffic lights for Raspberry pi
+
+Assignment 4:
+Write code and connections in wokwi for the ultrasonic sensor. Whenever the distance
+is less than 100 cms send an "alert" to the IBM cloud and display in the device 
+recent events.
